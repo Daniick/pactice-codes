@@ -12,7 +12,8 @@ body{
     position: relative;
     width: 30rem;
     height: 30rem;
-    background: white;
+    background: linear-gradient(#FFDEE9,#B5FFFC);
+
     box-shadow: 0 1px 5px rgba(0,0,0,0.5);   
 }
 
@@ -71,6 +72,7 @@ img{
     height: 100%;
     width: 100%;
     object-fit: cover;
+    
 }
 
 /* img:hover{
