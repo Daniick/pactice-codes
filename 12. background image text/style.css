@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: black;
+    color: white;
+}
+
+
+.heading{
+    font-size: 10rem;
+    font-weight: 900;
+    background-image: url(./360_F_281653591_LZmmypLdZaFsqOsJBsxilj3OYdINzh2B.jpg);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
